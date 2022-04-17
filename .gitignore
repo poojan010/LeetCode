@@ -2,3 +2,4 @@
 # wrtie => *.(extension)
 *.prob
 *.exe
+*.bin
